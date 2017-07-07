@@ -1,5 +1,8 @@
 # TO DO LIST
-# collision with borders fix
+# using the objects layer from .tmx
+# collision from objects
+# starting positions etc.
+
 
 from collections import defaultdict
 
